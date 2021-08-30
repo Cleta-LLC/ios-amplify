@@ -1,0 +1,20 @@
+{
+  "cletafcapi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cletafc-cletafcapi-145633-authRole",
+      "UnauthRoleArn": "arn:aws:iam::881970424006:role/amplify-cletafc-cletafcapi-145633-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::881970424006:role/amplify-cletafc-cletafcapi-145633-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cletafc-cletafcapi-145633-deployment",
+      "UnauthRoleName": "amplify-cletafc-cletafcapi-145633-unauthRole",
+      "StackName": "amplify-cletafc-cletafcapi-145633",
+      "StackId": "arn:aws:cloudformation:us-east-1:881970424006:stack/amplify-cletafc-cletafcapi-145633/efc91ad0-5834-11eb-a9a7-124e2698d6a5",
+      "AmplifyAppId": "day74qu7rkyw7"
+    },
+    "categories": {
+      "auth": {
+        "cletafc4d887309": {}
+      }
+    }
+  }
+}
